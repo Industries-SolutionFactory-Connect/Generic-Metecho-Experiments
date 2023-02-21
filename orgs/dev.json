@@ -1,6 +1,6 @@
 {
   "orgName": "Generic-Metecho-Experiments - Dev Org",
-  "edition": "Developer",
+  "template": "0TT4V000000TgpG",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
