@@ -19,9 +19,6 @@
     },
     "languageSettings": {
       "enableTranslationWorkbench": true
-    },
-     "industriesSettings":{
-      "enableTimelinePref": true
     }
   }
 }
